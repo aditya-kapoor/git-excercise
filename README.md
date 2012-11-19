@@ -1,4 +1,3 @@
-git-excercise
-=============
+This is the readme file for the git excercise
 
-Git Excercise
+I hope that I would be able to complete this excercise as soon as possible
